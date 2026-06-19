@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Square mark — D with horizontal strike (matching wordmark signature) -->
+  <rect width="64" height="64" fill="#0e0e0e"/>
+  <!-- D letter -->
+  <path d="M18 14 L18 50 L32 50 C44 50 50 42 50 32 C50 22 44 14 32 14 Z M24 20 L31 20 C39 20 44 24 44 32 C44 40 39 44 31 44 L24 44 Z"
+        fill="#ffffff"/>
+  <!-- Horizontal strike through middle -->
+  <rect x="6" y="31" width="52" height="2" fill="#ffffff"/>
+</svg>
